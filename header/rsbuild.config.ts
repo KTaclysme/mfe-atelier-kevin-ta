@@ -8,7 +8,7 @@ export default defineConfig({
     pluginModuleFederation({
       name: 'header',
       exposes: {
-        './button': './src/button.tsx',
+        './header': './src/header.tsx',
       },
       shared: ['react', 'react-dom'],
     }),
