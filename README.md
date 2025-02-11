@@ -2,6 +2,7 @@
 
 ## Installation et Démarrage
 
+```bash
 # Cloner le repository
 git clone git@github.com:KTaclysme/mfe-atelier-kevin-ta.git
 
