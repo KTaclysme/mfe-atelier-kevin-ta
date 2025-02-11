@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@module-federation/enhanced": "^0.8.11"
+  },
+  "devDependencies": {
+    "@module-federation/rsbuild-plugin": "^0.8.11",
+    "@rsbuild/plugin-react": "^1.1.0",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3"
+  }
+}
